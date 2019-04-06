@@ -4,11 +4,6 @@
 
 本仓库中的资料整理自网络，也有一些来自网友的推荐。在[这里](https://github.com/justjavac/awesome-wechat-weapp/graphs/contributors)可以看到项目贡献者的完整名单。
 
-## QQ交流群
-
-- [微信小程序1号群](https://jq.qq.com/?_wv=1027&k=5vqgNd0)：593495800 （已满）
-- [微信小程序2号群](https://jq.qq.com/?_wv=1027&k=5DYIJtv)：139122611
-- [微信小程序3号群](https://jq.qq.com/?_wv=1027&k=5pNiKHt)：682463867
 
 ## 目录
 
